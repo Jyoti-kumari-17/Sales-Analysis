@@ -1,2 +1,2 @@
-# Sales-Analysis
-Exploratory data analysis of sales dataset using Python, pandas, matplotlib
+# Exploraly data analysis
+Exploratory data analysis of sales, website, movie, customer churn dataset using Python, pandas, matplotlib, numpy libraries.
